@@ -1,0 +1,12 @@
+# Build output (shipped only inside GitHub releases, not committed)
+main.js
+*.js.map
+
+# Dependencies
+node_modules/
+
+# Obsidian local plugin data
+data.json
+
+# OS noise
+.DS_Store
