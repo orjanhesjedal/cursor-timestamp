@@ -1,0 +1,25 @@
+/* Cursor Timestamp — styles for the settings preview box. */
+
+.cursor-timestamp-preview {
+	margin-bottom: 1.2em;
+	padding: 0.75em 1em;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	background-color: var(--background-secondary);
+}
+
+.cursor-timestamp-preview-label {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	margin-bottom: 0.35em;
+}
+
+.cursor-timestamp-preview-value {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-small);
+	color: var(--text-normal);
+	white-space: pre-wrap;
+	word-break: break-word;
+}
