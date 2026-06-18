@@ -1,7 +1,7 @@
 {
 	"id": "cursor-timestamp",
 	"name": "Cursor Timestamp",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "1.4.0",
 	"description": "Insert a configurable, timezone-aware date and time stamp at the cursor, with custom prefix and suffix text and optional bold, italic, or coloured styling.",
 	"author": "Ørjan Hesjedal",
